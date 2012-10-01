@@ -1,0 +1,15 @@
+antalkontoer
+bosh
+bosh.c
+bosh.o
+buntu:#
+Makefile
+parser.c
+parser.h
+parser.o
+print.c
+print.h
+print.o
+questions.txt
+report.txt
+test.txt

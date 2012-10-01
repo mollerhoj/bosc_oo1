@@ -1,0 +1,3 @@
+skrivning af hostname?
+
+pipe concurrency?
