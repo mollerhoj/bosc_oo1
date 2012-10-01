@@ -1,1 +1,5 @@
 I remembered to permission bits. 0666.
+
+Had to insert exit(0); if command not found
+
+diagram over pipes.
