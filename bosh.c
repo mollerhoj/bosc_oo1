@@ -139,7 +139,7 @@ void INThandler(int sig)
 int main(int argc, char* argv[]) {
 
   /* set the ctrl-c signal */
-  //signal(SIGINT,INThandler);
+  signal(SIGINT,INThandler);
 
   /* initialize the shell */
   char *cmdline;
